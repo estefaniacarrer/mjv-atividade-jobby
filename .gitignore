@@ -12,6 +12,12 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 # file specific #
 OBSProjetoJOBBY.txt
 
